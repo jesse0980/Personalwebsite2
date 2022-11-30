@@ -21,3 +21,6 @@ python main.py
 ## Viewing The App
 
 Go to flask url provided
+
+
+The site is not live yet.
